@@ -2,8 +2,8 @@
 # Thomas Monfre, Karla Rosas, Josh Calianos, Jack Richardson
 
 dta = read.csv('~/Documents/School/Dartmouth/Sophomore Year/19W Courses/Gov 10/project/data.csv', header=TRUE)
-
 alpha = 0.05
+z_star = abs(qnorm(alpha/2))
 
 # assess total correctness
 num_correct = length(dta$Correct_Guess[dta$Correct_Guess == 1])
@@ -23,4 +23,15 @@ kaf_last_incorrect = kaf_last[kaf_last$Correct_Guess == 0, ]
 # get accuracy of each group
 kaf_first_accuracy = length(kaf_first$Correct_Guess[kaf_first$Correct_Guess == 1]) / length(kaf_first$Subject_Number)
 kaf_last_accuracy = length(kaf_last$Correct_Guess[kaf_last$Correct_Guess == 1]) / length(kaf_last$Subject_Number)
+
+# get margins of error
+kaf_first_moe = z_star * sqrt((kaf_first_accuracy*(1 - kaf_first_accuracy)/length(kaf_first$Subject_Number)))
+kaf_last_moe = z_star * sqrt((kaf_last_accuracy*(1 - kaf_last_accuracy)/length(kaf_last$Subject_Number)))
+
+"KAF First 95% Confidence Interval:"
+paste("(",kaf_first_accuracy - kaf_first_moe, ", ",kaf_first_accuracy + kaf_first_moe, ")", sep="")
+
+"KAF Last 95% Confidence Interval:"
+paste("(",kaf_last_accuracy - kaf_last_moe, ", ",kaf_last_accuracy + kaf_last_moe, ")", sep="")
+
 
