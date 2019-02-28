@@ -1,0 +1,101 @@
+Subject_Number,KAF_First,Correct_Guess,Class_Year,Avg_Cups_Per_Day,Preferred_Location,Preferred_Location_Summarized
+1,1,1,Other,2,Novack,Novack
+2,1,1,22,2,FOCO/Collis,Other
+3,1,0,20,1,FOCO,Other
+4,0,1,19,1,Home ,Other
+5,0,1,22,1,Collis,Other
+6,1,0,20,0,N/A ,Other
+7,1,1,19,1,Novack,Novack
+8,0,1,21,1,Novack,Novack
+9,1,0,19,4,Home/Novack,Novack
+10,0,1,20,1,FOCO,Other
+11,0,1,19,1,KAF,KAF
+12,1,1,20,0,Novack,Novack
+13,0,0,Other,2,Novack ,Novack 
+14,0,1,21,1,Novack,Novack
+15,0,1,19,2,Dirt/KAF,Other
+16,1,1,20,2,KAF,KAF
+17,1,1,19,8,KAF,KAF
+18,0,0,20,2,Dirt/KAF,KAF
+19,1,1,20,4,FOCO/Collis,Other
+20,1,0,20,4,KAF,KAF
+21,0,1,21,0,N/A ,Other
+22,1,1,22,1,Dirt ,Other
+23,0,1,21,0,N/A ,Other
+24,1,1,22,4,Novack,Novack
+25,0,0,21,1,Novack,Novack
+26,0,1,21,0,N/A ,Other
+27,1,0,22,0,N/A ,Other
+28,1,1,22,1,KAF,KAF
+29,0,0,22,0,N/A ,Other
+30,0,1,22,0,N/A ,Other
+31,1,1,22,1,Home,Other
+32,1,1,19,2,Sbuck,Other
+33,0,0,22,0,kaf,KAF
+34,1,0,22,1,kaf,KAF
+35,0,0,21,3,kaf,KAF
+36,1,0,21,1,kaf,KAF
+37,0,1,20,0,kaf,KAF
+38,0,1,19,2,kaf,KAF
+39,1,1,20,2,kaf,KAF
+40,0,1,22,0,kaf,KAF
+41,1,1,22,2,kaf,KAF
+42,0,1,22,1,kaf,KAF
+43,0,0,22,1,kaf,KAF
+44,1,0,21,0,collis,Other
+45,0,0,22,1,novack,Novack
+46,1,1,19,2,makes own,Other
+47,0,1,19,1,kaf,KAF
+48,0,0,20,1,kaf,KAF
+49,1,1,19,0,dirt,Other
+50,1,1,22,1,kaf,KAF
+51,0,1,20,2,dirt,Other
+52,0,1,19,0,kaf,KAF
+53,1,1,19,1,kaf,KAF
+54,1,1,22,1,novack,Novack
+55,0,1,22,2,collis,Other
+56,0,0,22,0,kaf,KAF
+57,1,1,20,0,kaf,KAF
+58,0,1,20,0,kaf,KAF
+59,0,0,20,1,kaf,KAF
+60,1,1,19,2,kaf,KAF
+61,0,1,21,1,kaf,KAF
+62,1,1,21,2,novack,Novack
+63,0,1,22,2,novack,Novack
+64,0,1,21,0,novack,Novack
+65,1,0,19,0,kaf,KAF
+66,1,0,22,1,novack,Novack
+67,0,0,22,0,sbucks,Other
+68,1,1,22,0,n/a,Other
+69,0,0,22,0,foco,Other
+70,1,1,21,1,kaf,KAF
+71,0,0,20,0,novack,Novack
+72,0,1,19,2,novack,Novack
+73,1,0,22,0,KAF,KAF
+74,0,0,22,1,KAF/Starbs,KAF
+75,1,1,21,2,Collis,Other
+76,1,1,21,1,KAF,KAF
+77,0,1,20,2,KAF/NOVACK ,KAF
+78,0,1,20,0,N/A,Other
+79,1,1,20,1,KAF,KAF
+80,1,1,20,1,Collis,Other
+81,0,1,20,2,KAF,KAF
+82,0,0,20,1,KAF/Novack ,KAF
+83,0,0,20,2,KAF,KAF
+84,0,1,20,1,KAF,KAF
+85,1,1,21,1,KAF/Novak,Novack
+86,1,1,19,1,KAF,KAF
+87,0,1,19,3,Foco,Other
+88,0,1,20,2,Novack,Novack
+89,1,1,19,1,Foco,Other
+90,1,0,20,4,Novack ,Novack
+91,0,1,19,2,KAF,KAF
+92,1,1,19,1,KAF/Dirt ,KAF
+93,0,1,20,2,KAF,KAF
+94,1,0,21,1,Novack ,Novack
+95,1,0,22,1,Novack,Novack
+96,0,0,20,2,Foco,Other
+97,0,0,19,3,KAF,KAF
+98,1,1,22,8,KAF ,KAF
+99,1,0,22,1,Collis ,Other
+100,0,1,22,1,Novack ,Novack
